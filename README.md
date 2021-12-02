@@ -18,7 +18,7 @@ Together with [@d-koppenhagen](https://github.com/d-koppenhagen) and [@JohannesH
 
 Get in touch with me!
 
-:bird: <a href="https://twitter.com/fmalcher">Twitter</a>
+:bird: <a href="https://twitter.com/fmalcher01">Twitter</a>
 
 :e-mail: <a href="mailto:ferdinand@malcher.media">E-Mail</a>
 
