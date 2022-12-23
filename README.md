@@ -18,9 +18,11 @@ Together with [@d-koppenhagen](https://github.com/d-koppenhagen) and [@JohannesH
 
 Get in touch with me!
 
-:bird: <a href="https://twitter.com/fmalcher01">Twitter</a>
+:elephant: [**Mastodon:** @fmalcher@det.social](https://det.social/@fmalcher)
 
-:e-mail: <a href="mailto:ferdinand@malcher.media">E-Mail</a>
+:e-mail: [**E-Mail:** ferdinand@malcher.media](mailto:ferdinand@malcher.media)
 
-:a: <a href="https://angular.schule">Angular.Schule</a>
+:bird: [**Twitter:** fmalcher01](https://twitter.com/fmalcher01)
+
+:a: [Angular.Schule](https://angular.schule)
 
