@@ -18,11 +18,9 @@ Together with [@d-koppenhagen](https://github.com/d-koppenhagen) and [@JohannesH
 
 Get in touch with me!
 
-:elephant: [**Mastodon:** @fmalcher@det.social](https://det.social/@fmalcher)
+:butterfly: [**Bluesky:** @fmalcher.de](https://bsky.app/profile/fmalcher.de)
 
 :e-mail: [**E-Mail:** ferdinand@malcher.media](mailto:ferdinand@malcher.media)
-
-:bird: [**Twitter:** fmalcher01](https://twitter.com/fmalcher01)
 
 :a: [Angular.Schule](https://angular.schule)
 
