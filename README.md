@@ -8,10 +8,10 @@ I'm Ferdinand Malcher – Google Developer Expert (GDE) for Angular, Developer, 
 
 ## Angular Book :closed_book: 
 
-Together with [@d-koppenhagen](https://github.com/d-koppenhagen) and [@JohannesHoppe](https://github.com/JohannesHoppe) I authored the German book about [Angular](https://angular.io) which is currently available in the 4th edition:
+Together with [@d-koppenhagen](https://github.com/d-koppenhagen) and [@JohannesHoppe](https://github.com/JohannesHoppe) I authored the German book about [Angular](https://angular.de) with four editions, and our new Angular book available in the first edition:
 
 <p align="center">
-  <a href="https://angular-buch.com"><img src="https://angular-buch.com/assets/img/book-cover-v4.png" alt="Angular - Grundlagen, fortgeschrittene Themen und Best Practices (4. Auflage)" width="250"></img></a>
+  <a href="https://angular-buch.com"><img src="https://angular-buch.com/assets/img/book-cover-v1m.png" alt="Angular: Das Praxisbuch – von den Grundlagen bus zur Professionellen Entwicklung mit Signals (1. Auflage)" width="250"></img></a>
 </p>
 
 ## Contact me :speech_balloon:
